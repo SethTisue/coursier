@@ -1,6 +1,6 @@
 
 plugins_(
-  "com.geirsson"       % "sbt-ci-release"           % "1.2.1",
+  "com.jsuereth"       % "sbt-pgp"                  % "1.1.2-1",
   "org.scala-sbt"      % "sbt-contraband"           % "0.4.3",
   "io.get-coursier"    % "sbt-coursier"             % sbtCoursierVersion,
   "pl.project13.scala" % "sbt-jmh"                  % "0.3.6",
